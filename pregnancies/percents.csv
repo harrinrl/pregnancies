@@ -1,0 +1,52 @@
+state,percent,fips
+Alabama,55,1
+Alaska,48,2
+Arizona,51,4
+Arkansas,55,5
+California,48,6
+Colorado,45,8
+Connecticut,51,9
+DC,62,10
+Delaware,57,11
+Florida,59,12
+Georgia,60,13
+Hawaii,56,15
+Idaho,39,16
+Illinois,52,17
+Indiana,49,18
+Iowa,43,19
+Kansas,45,20
+Kentucky,47,21
+Louisiana,60,22
+Maine,48,23
+Maryland,58,24
+Massachusetts,47,25
+Michigan,54,26
+Minnesota,40,27
+Mississippi,62,28
+Missouri,51,29
+Montana,45,30
+Nebraska,43,31
+Nevada,52,32
+New Hampshire,43,33
+New Jersey,53,34
+New Mexico,55,35
+New York,55,36
+North Carolina,54,37
+North Dakota,44,38
+Ohio,55,39
+Oklahoma,51,40
+Oregon,46,41
+Pennsylvania,53,42
+Rhode Island,52,44
+South Carolina,50,45
+South Dakota,46,46
+Tennessee,56,47
+Texas,54,48
+Utah,36,49
+Vermont,46,50
+Virginia,54,51
+Washington,48,53
+West Virginia,52,54
+Wisconsin,46,55
+Wyoming,44,56
